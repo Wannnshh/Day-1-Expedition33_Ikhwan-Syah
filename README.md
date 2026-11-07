@@ -19,7 +19,7 @@ Keuntungan melakukan prompt secara optimal antara lain adalah:
 3. Meningkatkan kontrol dan predictability
 4. Memberikan pengalaman yang lebih baik
 
-===================================================================================
+============================================================================
 
 # Git & GitHub
 Git adalah version control system yang melacak siapa, kapan, dan apa saja yang sudah dirubah dalam suatu file. Git sering digunakann di industri bidang teknologi karna fitur yang disediakan sangat berguna untuk melakukan tracking.
@@ -47,7 +47,7 @@ Terdapat beberapa command git yang sering digunakan, antara lain:
 2. git add. (Untuk memindahkan file ke staging area)
 3. git comi -m 'massage' (untuk menyimpan file ke repository)
 
-===================================================================================
+============================================================================
 
 # Pendapat Day - 1 Workshop
 Kegiatan ini sangat menyenangkan karena banyak sekali hal-hal yang dipelajari seperti materi yang saya sudah rangkum lalu di hari itu juga, kita tidak hanya memperlajari prompt engineering & GitHub melainkan juga kita dipaparkan presentasi oleh kepala jurusan dan kepala program studi yang ada di jurusan TIK.
