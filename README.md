@@ -19,6 +19,6 @@ Keuntungan melakukan prompt secara optimal antara lain adalah:
 3. Meningkatkan kontrol dan predictability
 4. Memberikan pengalaman yang lebih baik
 
-======================================================================================================================
+===================================================================================
 
 # GitHub
